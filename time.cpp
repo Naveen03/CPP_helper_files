@@ -2,7 +2,7 @@
 #include <chrono>
 
 using namespace std;
-// timer structure which will time the as long as the structure object alive
+// timer structure which will time the function as long as the structure object alive
 // here inside the function definition
 struct Timer {
 
